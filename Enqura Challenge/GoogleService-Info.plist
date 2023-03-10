@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>5570535904-pg6trip4e030681kg93n9bglqg645dm3.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.5570535904-pg6trip4e030681kg93n9bglqg645dm3</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBMlQcHCMI8yD25-IyAsMhFBP7i1cwzFLM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>5570535904</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ozan.Enqura-Challenge</string>
+	<key>PROJECT_ID</key>
+	<string>fir-c4d68</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fir-c4d68.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:5570535904:ios:c784de2b7b6ba8c78a8b85</string>
+</dict>
+</plist>
